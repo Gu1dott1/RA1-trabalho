@@ -6,6 +6,7 @@ Este projeto consiste em um analisador léxico e sintático para expressões de 
 
 - Fabrício Guite Pereira  
 - Vinicius Guidotti Macedo
+- Alexandre de Moraes Bueno
 
 ## Objetivo
 
