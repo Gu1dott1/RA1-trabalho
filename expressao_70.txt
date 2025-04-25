@@ -1,0 +1,71 @@
+70
+(\leftrightarrow x1 x2)
+(\wedge true false)
+true
+false
+(\wedge true false)
+(\wedge true false)
+(\rightarrow a b)
+(\vee (\neg p1) p2)
+(\wedge true false)
+(\wedge x)
+(\wedge (\vee a b) (\neg c))
+p q
+(\wedge p1 p2)
+(\wedge p1 p2)
+abc123
+(\vee (\neg p1) p2)
+(\wedge p1 p2)
+true
+(\neg )
+(\wedge (\vee a b) (\neg c))
+abc&def
+(\vee (\neg p1) p2)
+p q
+(\vee (\neg p1) p2)
+(\negg x)
+(\and x y)
+(\rightarrow a b)
+(\negg x)
+(\wedge x)
+(\wedge p1 p2)
+(\rightarrow a b)
+(\negg x)
+(\vee)
+(\leftrightarrow x1 x2)
+false
+(\rightarrow a b)
+(\vee (\neg p1) p2)
+false
+(\wedge (\vee a b) (\neg c))
+(\wedge x)
+false
+abc123
+(\wedge (\vee a b) (\neg c))
+abc123
+(\wedge true false)
+(\wedge (\vee a b) (\neg c))
+(\leftrightarrow x1 x2)
+(\vee (\neg p1) p2)
+(\vee (\neg p1) p2)
+(\xor a b)
+(\neg )
+p q
+(\wedge true false)
+(\xor a b)
+(\wedge x)
+(\wedge true false)
+(\vee (\neg p1) p2)
+abc&def
+true
+(\rightarrow a b)
+false
+(\wedge a)
+false
+false
+(\vee)
+(\wedge true false)
+(\rightarrow a b)
+abc123
+(\and x y)
+(\wedge (\vee a b) (\neg c))

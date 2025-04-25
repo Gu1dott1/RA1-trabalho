@@ -1,0 +1,31 @@
+30
+false
+(\wedge p1 p2)
+(\wedge p1 p2)
+(\xor a b)
+(\vee (\neg p1) p2)
+abc123
+(\wedge p1 p2)
+(\leftrightarrow x1 x2)
+p q
+true
+(\neg )
+(\vee (\neg p1) p2)
+(\wedge (\vee a b) (\neg c))
+(\wedge (\vee a b) (\neg c))
+true
+abc&def
+abc&def
+false
+(\xor a b)
+(\wedge true false)
+(\rightarrow a b)
+abc123
+(\wedge p1 p2)
+(\vee)
+(\leftrightarrow x1 x2)
+(\wedge true false)
+(\wedge a)
+abc123
+abc&def
+(\vee (\neg p1) p2)

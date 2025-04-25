@@ -1,0 +1,21 @@
+20
+false
+(\wedge true false)
+(\rightarrow a b)
+false
+(\vee)
+(\neg )
+abc123
+abc123
+(\leftrightarrow x1 x2)
+false
+p q
+(\leftrightarrow x1 x2)
+(\vee)
+(\wedge a)
+(\leftrightarrow x1 x2)
+false
+(\wedge p1 p2)
+true
+(\and x y)
+(\rightarrow a b)
