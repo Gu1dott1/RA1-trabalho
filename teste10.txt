@@ -1,0 +1,2 @@
+1
+(\leftrightarrow (\wedge x y) (\vee z w))

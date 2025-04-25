@@ -1,0 +1,3 @@
+2
+(\wedge a b)
+(\wedge a)

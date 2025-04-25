@@ -1,0 +1,3 @@
+2
+(\negg x)
+(\wedge x)
