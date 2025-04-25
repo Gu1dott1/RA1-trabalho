@@ -2,10 +2,6 @@
 
 import sys
 
-# ---------------------
-# Analisador Léxico com Máquina de Estados
-# ---------------------
-
 def lexer(expr):
     tokens = []
     estado = 'INICIO'
@@ -71,10 +67,6 @@ def lexer(expr):
 
     return tokens
 
-# ---------------------
-# Analisador Sintático (Parser LL(1))
-# ---------------------
-
 class Parser:
     def __init__(self, tokens):
         self.tokens = tokens
@@ -118,10 +110,6 @@ class Parser:
                 raise Exception('Operador inválido após "("')
         else:
             raise Exception('Início de fórmula inválido')
-
-# ---------------------
-# Função Principal
-# ---------------------
 
 def main():
     if len(sys.argv) != 2:
